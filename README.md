@@ -1,1 +1,1 @@
-![codepotion's Streak](https://github-readme-streak-stats.herokuapp.com/?user=codepotion&theme=vue-dark&hide_border=true)
+[![codepotion's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=codepotion&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/codepotion)
