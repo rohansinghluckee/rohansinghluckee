@@ -14,3 +14,33 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" alt="django" width="45" height="45"/>
 </p>
+
+
+# 🙏 नमस्ते, I'm Rohan Raj Singh (aka *Luckee*) 👑
+
+🧠 Passionate Developer | 💻 Python & PHP Enthusiast  
+🏗️ Building smart and scalable solutions with code  
+📚 Always learning. 🎨 Always creating.
+
+---
+
+### 🛠️ Tech Stack I Work With:
+- **Languages:** Python 🐍 | PHP 🐘 | JavaScript ⚡
+- **Backend:** Laravel ⚙️ | Django 🌐 | Flask 🔥
+- **Frontend:** HTML5, CSS3, Bootstrap
+- **Database:** MySQL 🗄️ | SQLite
+- **Tools:** Git 🧰 | GitHub 🖥️ | VS Code
+
+---
+
+### 🌍 About Me:
+- 🏡 From: **Bihar, India**
+- 🎯 Focused on: Clean Code & Scalable Architectures
+- 🤝 Open to Collaboration and Learning
+- 💪 Gym Lover | 🎬 Movie Buff | 🎧 Classic Music Listener
+
+---
+
+### 📫 Let's Connect:
+Feel free to explore my repositories and drop a ⭐ if you like what you see!
+
