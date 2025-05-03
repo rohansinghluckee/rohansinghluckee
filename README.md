@@ -1,10 +1,10 @@
 # 🙏 नमस्ते, I'm Rohan Singh (aka *Luckee*)
 
-🧠 Passionate Developer
-💻 Python & PHP Enthusiast
-🏗️ Building smart and scalable solutions with code
-📚 Always learning
-🎨 Always creating
+- 🧠 Passionate Developer
+- 💻 Python & PHP Enthusiast
+- 🏗️ Building smart and scalable solutions with code
+- 📚 Always learning
+- 🎨 Always creating
 ---
 
 ### 🛠️ Tech Stack I Work With:
@@ -39,6 +39,5 @@ Feel free to explore my repositories and drop a ⭐ if you like what you see!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" alt="django" width="45" height="45"/>
 </p>
----
 
 [![codepotion's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=codepotion&theme=algolia&show_icons=true)](https://github.com/codepotion)
