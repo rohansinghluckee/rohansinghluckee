@@ -57,4 +57,11 @@ Feel free to explore my repositories and share your views if you have any.
 
 ---
 
-[![codepotion's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=rohansinghluckee&theme=algolia&show_icons=true)](https://github.com/rohansinghluckee)
+<div style="display: flex; gap: 10px;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohansinghluckee&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohansinghluckee&layout=compact&theme=dark" />
+</div>
+
+
+## Feeding...
+![Snake animation](https://raw.githubusercontent.com/rohansinghluckee/rohansinghluckee/output/github-contribution-grid-snake-dark.svg)
