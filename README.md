@@ -56,9 +56,10 @@
 Feel free to explore my repositories and share your views if you have any.
 
 ---
+![Profile_Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohansinghluckee&theme=dark)
 
 <div style="display: flex; gap: 10px;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohansinghluckee&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rohansinghluckee&theme=dark" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohansinghluckee&layout=compact&theme=dark" />
 </div>
 
