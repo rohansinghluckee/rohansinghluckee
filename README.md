@@ -56,16 +56,16 @@
 Feel free to explore my repositories and share your views if you have any.
 
 ---
-![Profile_Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohansinghluckee&theme=dark)
+![Profile_Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=connectrohanrajsingh&theme=dark)
 
 <div style="display: flex; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohansinghluckee&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohansinghluckee&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=connectrohanrajsingh&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=connectrohanrajsingh&layout=compact&theme=dark" />
 </div>
 
 
 ## Feeding...
-![Snake animation](https://raw.githubusercontent.com/rohansinghluckee/rohansinghluckee/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/connectrohanrajsingh/connectrohanrajsingh/output/github-contribution-grid-snake-dark.svg)
 
 
 <div align="center">
