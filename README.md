@@ -53,7 +53,7 @@
 ---
 
 ### 📫 **Let's Connect:**
-Feel free to explore my repositories and share your views if you have any.
+Feel free to explore my repositories and share your views.
 
 ---
 ![Profile_Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=connectrohanrajsingh&theme=dark)
